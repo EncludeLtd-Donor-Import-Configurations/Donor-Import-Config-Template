@@ -1,5 +1,5 @@
 # Donor Import Config Template
-This is a template for creating metadata repositories with a "Deploy to Salesforce" button, courtesy of [afawsett](https://github.com/afawcett/githubsfdeploy)
+This is a template for creating a Donor Import Config metadata repository with a "Deploy to Salesforce" button, courtesy of [afawsett](https://github.com/afawcett/githubsfdeploy)
 
 ## How to Use
 - Clone template, giving the new repository the name of the platform configuration
