@@ -6,7 +6,7 @@ This is a template for creating a Donor Import Config metadata repository with a
 - Populate the force-app\main\default directory with metadata. Usually this includes:
    - A `Donor Import Config` Custom Metadata record
    - The processing flow defined in the Donor Import Config above
-- Update the URL of the button below, replacing {REPOSITORY-NAME} with the name of your Github repo
+- Update the URL of the button below, replacing `{REPOSITORY-NAME}` with the name of your Github repo
 
 ## Deploy
 <a href="https://githubsfdeploy.herokuapp.com?owner=EncludeLtd-Donor-Import-Configurations&repo={REPOSITORY-NAME}&ref=main">
